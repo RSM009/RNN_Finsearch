@@ -11,5 +11,3 @@ links :-
 6.For performance test try to think and build a python script to that can run both LSTM and ARMA model that you coded and genrate the result of both and then plot both the result side by side and then give the appropriate explaination for result.   
 7.[VIDIO RESOURCE](https://www.youtube.com/watch?v=hpfQE0bTeA4)  
 8.[VIDIO RESOURCE](https://youtu.be/pryXhOgDY9A)
-9.
-10.

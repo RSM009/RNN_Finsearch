@@ -1,4 +1,4 @@
-# RNN_Finsearch  
+# RNN_Trading_Model
 
 
 
